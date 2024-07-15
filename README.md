@@ -115,66 +115,6 @@ Debug issues in small- to medium-sized project
 Instructions
 Refer to the phase 1 project guidelines resource prior to submitting your project 
 
-Select Start Assignment 
-Submit your project assignment
-Grading Criteria
-Use the following rubric to guide you on the specific criteria and rating levels.
 
-Rubric
-Phase Project Rubric
-Phase Project Rubric
-Criteria	Ratings	Pts
-This criterion is linked to a Learning OutcomeProficiency with Learning Goals
-(end of phase assessment)
-4 pts
-4
-Explanation of all project learning goals are accurate and provides additional expertise.
-3 pts
-3
-Clearly and confidently explained the concept(s) incorporating all learning goals of the project.
-2 pts
-2
-Unable to provide a accurate explanations of most project learning goals.
-1 pts
-1
-Unable to explain the project learning goals associated correctly; needed extra support from instructor.
-0 pts
-0
-Unable to demonstrate ability to explain project learning goals- even with instructor support.
-4 pts
-This criterion is linked to a Learning OutcomeTechnical Communication
-(end of phase assessment)
-4 pts
-4
-Able to communicate clearly, fluently, accurately and independently about their project and technical concepts.
-3 pts
-3
-Able to communicate clearly and accurately about their project and technical concepts with only minor mistakes.
-2 pts
-2
-Explanation of project and technical concepts was not effective overall. Required help or had major errors.
-1 pts
-1
-Unable to communicate effectively about their project or technical concepts, had significant errors or gaps.
-0 pts
-0
-Unable to communicate about their project and technical concepts, even with help.
-4 pts
-This criterion is linked to a Learning OutcomeCoding Best Practices
-4 pts
-4
-Project code meets requirements. Code is well designed; incorporating best practices and using advanced patterns.
-3 pts
-3
-Project code meets requirements. Code is written to solve the problem, following best practices and well is designed, with a few minor errors.
-2 pts
-2
-Project code does not fully meet requirements. Code is not operational. Code is lacking best practices or well designed methodologies. Code requires revision.
-1 pts
-1
-Code does not meet project requirements and is not operational. Does not incorporate best practices and has bad design methodologies. Code requires major revision.
-0 pts
-0
-Project does not meet requirements. Code is illegible and un-operational does not incorporate coding best practices or design.
-4 pts
-Total Points: 12
+
+
