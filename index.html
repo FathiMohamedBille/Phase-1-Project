@@ -1,1 +1,59 @@
-
+<!DOCTYPE html>
+ <html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Petite Fleur Bistro Restaurant</title>
+<link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+<header> 
+<h1>It's not just Food, It's an Experience.</h1>
+<nav>
+<a href="#menu-items">Menu</a>
+<a href="#contact">Contact</a> 
+<a href="#reviews">Reviews</a>
+<a href="#About us">About us</a>
+</nav>
+</header>
+<section id="menu-items">
+<h2>Petite Fleur Bistro Menu</h2>
+<div id="menu-list"></div> 
+</section>
+<section id="About us"></section>
+<h2>About us</h2>
+<p>Welcome to Petite Fleur Bistro, where elegance meets flavor. We offer a cozy, charming atmosphere with delightful dishes crafted to perfection. Join us for a memorable dining experience!
+</p>
+<section id="contact">
+<h2>Contact Information</h2>
+<p>Address: 00800 Kilimani, Nairobi, Kenya</p>
+<p>Phone: +254 706 360 283</p>
+<p>Email: PetiteFleurBistrorestaurant@gmail.com</p>
+</section>
+<section id="reviews"> 
+<h2>Reviews</h2>
+ <div id="review-list">
+</div> 
+<form id="reviewForm"  method="POST" action="/db.json">
+<input type="text" id="name" placeholder="Your Name" required>
+&nbsp;&nbsp;&nbsp;&nbsp;<textarea id="review" placeholder="Your Review" required></textarea>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="rating">Rating:</label> <select id="rating" required> 
+<option value="5">5 Stars</option> <option value="4">4 Stars</option> 
+<option value="3">3 Stars</option> <option value="2">2 Stars</option>
+ <option value="1">1 Star</option> 
+</select> <button type="submit">Submit Review</button>
+ </form> 
+</section> 
+<section id="add-new-menu-item"> 
+<h2>Include New Dish</h2>
+<form id="add-menu-form"> 
+<input type="text" id="menu-name" placeholder="Name" required> 
+<input type="text" id="menu-image" placeholder="Image URL" required>
+<input type="number" id="menu-price" placeholder="Price" required>
+<input type="text" id="menu-description" placeholder="Description" required> 
+<button type="submit">Add</button>
+ </form> 
+</section>
+ <script src="index.js"></script> 
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "menuItems": [
+    {
+      "id": "603",
+      "name": "Milkshake",
+      "image": "https://th.bing.com/th/id/OIP.OeGxsIQnO-2E9rFF6-kaWQHaHa?w=700&h=700&rs=1&pid=ImgDetMain",
+      "price": "500",
+      "description": "Indulge in our handcrafted milkshakes, where creamy vanilla ice cream meets a burst of flavor. Whether you’re craving the nostalgia of ripe strawberries, the richness of chocolate fudge, or the delightful crunch of cookies & cream, our milkshakes are a treat for all ages. Topped with whipped cream and extra garnishes, they’re the perfect sweet escape"
+    },
+    {
+      "id": "1",
+      "name": "Mineral water",
+      "image": "https://cdn.wallpapersafari.com/14/14/yZGXVi.jpg",
+      "price": "150",
+      "description": "Best mineral water at affordable price"
+    },
+    {
+      "id": "2",
+      "name": "Pesto Caprese Penne Pasta",
+      "image": "https://th.bing.com/th/id/R.4717c1769aeb56668392ff7b3950cc93?rik=VvcXDszTETebvg&riu=http%3a%2f%2fwww.threeolivesbranch.com%2fwp-content%2fuploads%2f2017%2f10%2fIMG_7189.jpg&ehk=5eXgmqk32JfeqrCNJeyORx%2frMhcOJy8qvyCgnOqtw0w%3d&risl=&pid=ImgRaw&r=0",
+      "price": "1500",
+      "description": "Pesto Caprese Penne Pasta is a delightful Italian dish that combines vibrant flavors"
+    },
+    {
+      "id": "6209",
+      "name": "Sushi",
+      "image": "https://th.bing.com/th/id/OIP.TNSb3g9qTNPeqC7m7GAUAAHaE8?w=305&h=204&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "1300",
+      "description": "Sushi is a staple rice dish in Japanese cuisine. It consists of cooked rice seasoned with vinegar and various toppings or fillings. While many associate sushi with raw fish, the most crucial ingredient is actually the sushi rice"
+    },
+    {
+      "id": "3874",
+      "name": "Pizzas",
+      "image": "https://th.bing.com/th/id/OIP.7JhIndocXv6oVLl5kEN6cAHaKX?rs=1&pid=ImgDetMain",
+      "price": "1200",
+      "description": "Enjoy our delicious and diverse pizza option,each crafted with fresh ingredients and love!"
+    },
+    {
+      "id": "89",
+      "name": "Cocktails",
+      "image": "https://bing.com/th?id=OSK.46b5d41d1e3e44084c7a37ca9e0944f5",
+      "price": "700",
+      "description": "We offer the best cocktails at an affordable price"
+    },
+    {
+      "id": "78",
+      "name": "Fresh Fruit Juice",
+      "image": "https://th.bing.com/th/id/OIF.OG1G1g6PDYkC2ZVlcpKMtg?w=290&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "120",
+      "description": "We offer fresh juices at an affordable price"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "2e65",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "uu"
+    },
+    {
+      "id": "e520",
+      "name": "Zahra M",
+      "rating": "3",
+      "review": "dd"
+    }
+  ]
+}
