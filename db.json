@@ -1,13 +1,6 @@
 {
   "menuItems": [
     {
-      "id": "603",
-      "name": "Milkshake",
-      "image": "https://th.bing.com/th/id/OIP.OeGxsIQnO-2E9rFF6-kaWQHaHa?w=700&h=700&rs=1&pid=ImgDetMain",
-      "price": "500",
-      "description": "Indulge in our handcrafted milkshakes, where creamy vanilla ice cream meets a burst of flavor. Whether you’re craving the nostalgia of ripe strawberries, the richness of chocolate fudge, or the delightful crunch of cookies & cream, our milkshakes are a treat for all ages. Topped with whipped cream and extra garnishes, they’re the perfect sweet escape"
-    },
-    {
       "id": "1",
       "name": "Mineral water",
       "image": "https://cdn.wallpapersafari.com/14/14/yZGXVi.jpg",
@@ -48,6 +41,13 @@
       "image": "https://th.bing.com/th/id/OIF.OG1G1g6PDYkC2ZVlcpKMtg?w=290&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7",
       "price": "120",
       "description": "We offer fresh juices at an affordable price"
+    },
+    {
+      "id": "f4a4",
+      "name": "salad",
+      "image": "https://bing.com/th?id=OSK.82f940cc1b2290cb15c07ce5968bf142",
+      "price": "600",
+      "description": "nice"
     }
   ],
   "reviews": [
@@ -62,6 +62,96 @@
       "name": "Zahra M",
       "rating": "3",
       "review": "dd"
+    },
+    {
+      "id": "6b6b",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "7213",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "f272",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "f486",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "7cea",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "7cd2",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "a665",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "0fc8",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "42bd",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "6337",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "d938",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "de8e",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "8255",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "4a17",
+      "name": "Zahra M",
+      "rating": "5",
+      "review": "perfect"
+    },
+    {
+      "id": "39e4",
+      "name": "fathi mohamed",
+      "rating": "4",
+      "review": "love it"
     }
   ]
 }

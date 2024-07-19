@@ -17,8 +17,8 @@ itemDiv.innerHTML = ` <img src="${item.image}" alt="${item.name}">
 <p>Price: Ksh ${item.price}</p>
 <p>${item.description}</p>
 </div>
- <button style="background:#053d7df0; color:white; margin: 20px;" class= "edit" onclick="editMenuItem(${item.id})">Edit</button> 
- <button style="background:#053d7df0; color:white; margin:20px;"  class="delete" onclick="deleteMenuItem(${item.id})">Delete</button> 
+ <button style="background:#053d7df0; color:white; margin: 50px;" class= "edit" onclick="editMenuItem(${item.id})">Edit</button> 
+ <button style="background:#053d7df0; color:white; margin:50px;"  class="delete" onclick="deleteMenuItem(${item.id})">Delete</button> 
  `;
   menuList.appendChild(itemDiv); 
 });
